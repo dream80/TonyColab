@@ -3,7 +3,7 @@
 
 | 名称  |脚本   | 描述 |
 | ---- | ---- | ---- |
-| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/backup/photomaker_demo.ipynb) | 通过堆叠 ID 嵌入定制逼真的人体照片 |
+| [PhotoMaker](https://github.com/TencentARC/PhotoMaker) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/PhotoMaker.ipynb) | 通过堆叠 ID 嵌入定制逼真的人体照片 |
 | Sambert_UI | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/backup/Sambert_UI.ipynb) | 基于Sambert的声音克隆 |
 | MyHeyGen | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dream80/TonyColab/blob/master/myheygen.ipynb) | HeyGen平替，声音克隆，嘴型同步，视频翻译。 |
 | [magic-animate](https://github.com/magic-research/magic-animate) | [![打开](https://colab.research.google.com/assets/colab-badge.svg)](myheygen.ipynb) | 照片跳舞，视频驱动图片。 |
