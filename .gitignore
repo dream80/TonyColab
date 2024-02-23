@@ -1,0 +1,6 @@
+#
+._*
+.DS_Store
+*.log
+*.tmp
+temp/
